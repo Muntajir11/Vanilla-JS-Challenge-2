@@ -7,11 +7,19 @@ This project demonstrates the usage of CSS variables along with JavaScript to dy
 - HTML
 - CSS
 - JavaScript
+## ScreenShots
+![image](https://github.com/Muntajir11/Vanilla-JS-Challenge-2/assets/91109805/815d3d21-9ac8-4f1c-a8d0-714573d122f9)
+
+![image](https://github.com/Muntajir11/Vanilla-JS-Challenge-2/assets/91109805/8ca97e52-02bc-4996-bd9f-05bad7f1e008)
+
 
 ## Features
 - Adjust spacing between elements dynamically.
 - Apply blur effect to the image in real-time.
 - Change the base color of the image with a color picker.
+
+## Hosted ⬇️
+https://muntajir11.github.io/Vanilla-JS-Challenge-2/
 
 ## Usage
 1. Clone the repository:
