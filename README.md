@@ -19,7 +19,7 @@ This project demonstrates the usage of CSS variables along with JavaScript to dy
 - Change the base color of the image with a color picker.
 
 ## Hosted ⬇️
-https://muntajir11.github.io/Vanilla-JS-Challenge-2/
+https://muntajir11.github.io/Vanilla-JS-Challenge-2-CSS-Variables/
 
 ## Usage
 1. Clone the repository:
